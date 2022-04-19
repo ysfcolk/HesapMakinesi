@@ -4,7 +4,7 @@ Hesap Makinesi Programıma hoşgeldin.Bu proje [Patika Dev](www.patika.dev) Java
 
 ## **Installation**
 
-Öncelikle projeyi clonelayın.
+Öncelikle programı clonelayın.
 
 git clone https://github.com/ysfcolk/HesapMakinesi.git
 
